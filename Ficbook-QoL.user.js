@@ -7,9 +7,9 @@
 // @license      MIT
 // @match        https://ficbook.net/*
 // @run-at       document-end
-// @updateURL https://openuserjs.org/meta/mellistea/Фикбук_—_красные_строки.meta.js
-// @downloadURL https://openuserjs.org/install/mellistea/Фикбук_—_красные_строки.user.js
-// @copyright 2025, mellistea (https://openuserjs.org/users/mellistea)
+// @updateURL    https://github.com/mellistea/Ficbook-QoL/raw/refs/heads/main/Ficbook-QoL.user.js
+// @downloadURL  https://github.com/mellistea/Ficbook-QoL/raw/refs/heads/main/Ficbook-QoL.user.js
+// @copyright    2025, mellistea (https://openuserjs.org/users/mellistea)
 // ==/UserScript==
 
 (function () {
