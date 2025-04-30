@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Фикбук — красные строки
 // @namespace    Violentmonkey Scripts
-// @version      1.0
+// @version      1.1
 // @description  Чинит существующие и добавляет новые красные строки с отступами в тексте фанфика на Фикбуке
 // @author       mellistea
 // @license      MIT
